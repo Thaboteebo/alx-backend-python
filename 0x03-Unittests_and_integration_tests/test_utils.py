@@ -2,7 +2,7 @@
 """ doc doc doc """
 import unittest
 from parameterized import parameterized
-from utils import access_nested_map, get_json, memorize
+from utils import access_nested_map, get_json, memoize
 from typing import Any, Tuple, Dict
 from unittest.mock import patch, Mock
 
